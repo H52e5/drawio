@@ -1,1 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2022-11-20T09:14:02.460Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.52" version="20.5.3" etag="GFnF_rNbdXzHL3IPhc3S" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-20T09:45:28.978Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.52" etag="-y33cyyVoMifty69Nnfk" version="20.5.3" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="nHfeGm76d14weIbEbzsL-0" value="浏览器" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="40" width="250" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="nHfeGm76d14weIbEbzsL-2" value="&lt;span style=&quot;font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Noto Sans SC&amp;quot;, &amp;quot;Meslo LG&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;; font-size: 16px;&quot;&gt;/redirect/boy?id=10001&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="nHfeGm76d14weIbEbzsL-0">
+          <mxGeometry x="20" y="40" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nHfeGm76d14weIbEbzsL-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;fontColor=#000000;" edge="1" parent="nHfeGm76d14weIbEbzsL-0" source="nHfeGm76d14weIbEbzsL-11" target="nHfeGm76d14weIbEbzsL-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nHfeGm76d14weIbEbzsL-11" value="&lt;span style=&quot;font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Noto Sans SC&amp;quot;, &amp;quot;Meslo LG&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;; font-size: 16px;&quot;&gt;302&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Noto Sans SC&amp;quot;, &amp;quot;Meslo LG&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Noto Sans SC&amp;quot;, &amp;quot;Meslo LG&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;; font-size: 16px;&quot;&gt;localhost: /redirect/girl&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="nHfeGm76d14weIbEbzsL-0">
+          <mxGeometry x="20" y="130" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nHfeGm76d14weIbEbzsL-16" value="&lt;span style=&quot;font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Noto Sans SC&amp;quot;, &amp;quot;Meslo LG&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;; font-size: 16px;&quot;&gt;/redirect/girl&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;" vertex="1" parent="nHfeGm76d14weIbEbzsL-0">
+          <mxGeometry x="20" y="220" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nHfeGm76d14weIbEbzsL-29" value="&lt;span style=&quot;font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Noto Sans SC&amp;quot;, &amp;quot;Meslo LG&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;; font-size: 16px;&quot;&gt;return&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;" vertex="1" parent="nHfeGm76d14weIbEbzsL-0">
+          <mxGeometry x="20" y="310" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nHfeGm76d14weIbEbzsL-1" value="服务器" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="40" width="240" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="nHfeGm76d14weIbEbzsL-4" value="&lt;span style=&quot;font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Noto Sans SC&amp;quot;, &amp;quot;Meslo LG&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;; font-size: 16px;&quot;&gt;BoyServlet&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Noto Sans SC&amp;quot;, &amp;quot;Meslo LG&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Noto Sans SC&amp;quot;, &amp;quot;Meslo LG&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;; font-size: 16px;&quot;&gt;A对B说:帮我拿下快递&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Noto Sans SC&amp;quot;, &amp;quot;Meslo LG&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Noto Sans SC&amp;quot;, &amp;quot;Meslo LG&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;; font-size: 16px;&quot;&gt;B对A说: 我没空, 你找C&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Noto Sans SC&amp;quot;, &amp;quot;Meslo LG&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Noto Sans SC&amp;quot;, &amp;quot;Meslo LG&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;; font-size: 16px;&quot;&gt;重定向,通知浏览器访问其他路径&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Noto Sans SC&amp;quot;, &amp;quot;Meslo LG&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Noto Sans SC&amp;quot;, &amp;quot;Meslo LG&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;; font-size: 16px;&quot;&gt;1. 设置响应码&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Noto Sans SC&amp;quot;, &amp;quot;Meslo LG&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Noto Sans SC&amp;quot;, &amp;quot;Meslo LG&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;; font-size: 16px;&quot;&gt;2. 设置响应头&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;spacingLeft=7;" vertex="1" parent="nHfeGm76d14weIbEbzsL-1">
+          <mxGeometry x="20" y="40" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="nHfeGm76d14weIbEbzsL-31" value="&lt;span style=&quot;font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Noto Sans SC&amp;quot;, &amp;quot;Meslo LG&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;; font-size: 16px;&quot;&gt;GirlServlet&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Noto Sans SC&amp;quot;, &amp;quot;Meslo LG&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Noto Sans SC&amp;quot;, &amp;quot;Meslo LG&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;; font-size: 16px;&quot;&gt;A对C说: 帮我拿下快递&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Noto Sans SC&amp;quot;, &amp;quot;Meslo LG&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Noto Sans SC&amp;quot;, &amp;quot;Meslo LG&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;; font-size: 16px;&quot;&gt;C对A说: 好的&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;spacingLeft=7;" vertex="1" parent="nHfeGm76d14weIbEbzsL-1">
+          <mxGeometry x="20" y="220" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="nHfeGm76d14weIbEbzsL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHfeGm76d14weIbEbzsL-2" target="nHfeGm76d14weIbEbzsL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nHfeGm76d14weIbEbzsL-8" value="请求头 行 体" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#000000;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="60" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nHfeGm76d14weIbEbzsL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;fontSize=14;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHfeGm76d14weIbEbzsL-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="193" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nHfeGm76d14weIbEbzsL-15" value="&lt;span style=&quot;font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Noto Sans SC&amp;quot;, &amp;quot;Meslo LG&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;;&quot;&gt;响应码: 302&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Noto Sans SC&amp;quot;, &amp;quot;Meslo LG&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;; font-size: 16px;&quot;&gt;响应头: localhost&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="160" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nHfeGm76d14weIbEbzsL-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHfeGm76d14weIbEbzsL-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nHfeGm76d14weIbEbzsL-30" value="请求头 行 体" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#000000;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="260" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nHfeGm76d14weIbEbzsL-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1.015;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nHfeGm76d14weIbEbzsL-31" target="nHfeGm76d14weIbEbzsL-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nHfeGm76d14weIbEbzsL-33" value="拿到快递了" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#000000;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="375" y="340" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
